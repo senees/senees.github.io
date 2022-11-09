@@ -1,2 +1,1 @@
-# seenees.github.io
-Blog
+notes
