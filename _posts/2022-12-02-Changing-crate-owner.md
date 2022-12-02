@@ -14,4 +14,4 @@ $ cargo owner --remove login crate_name
 
 ### References
 
-https://doc.rust-lang.org/cargo/commands/cargo-owner.html
+- [The Cargo Book](https://doc.rust-lang.org/cargo/commands/cargo-owner.html)
